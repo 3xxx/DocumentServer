@@ -14,3 +14,9 @@
 	path = core-fonts
 	url = https://github.com/ONLYOFFICE/core-fonts.git
 
+[submodule "web-apps"]
+	path = web-apps
+	url = https://github.com/warnerbryce/web-apps/
+[submodule "server"]
+	path = server
+	url = https://github.com/warnerbryce/server/
