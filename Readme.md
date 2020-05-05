@@ -2,6 +2,7 @@
 
 ## Overview
 
+This is a fork of OnlyOffice/DocumentServer, it is updated to the latest stable version with some reverted changes on the Mobile Edition feature and with a limitation changed from 20 to 100 simultaneous connections.
 ONLYOFFICE Document Server is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 
 ## Components
