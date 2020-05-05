@@ -46,8 +46,8 @@ The table below will help you to make the right choice.
 | ------------- | ------------- | ------------- | ------------- |
 | | [Get it now](https://www.onlyoffice.com/download.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  | [Start Free Trial](https://www.onlyoffice.com/connectors-request.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  | [Start Free Trial](https://www.onlyoffice.com/developer-edition-request.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  |
 | Cost  | FREE  | [Go to the pricing page](https://www.onlyoffice.com/integration-edition-prices.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  | [Go to the pricing page](https://www.onlyoffice.com/developer-edition-prices.aspx?utm_source=github&utm_medium=cpc&utm_campaign=GitHubDS)  |
-| Simultaneous connections | up to 20 maximum  | As in chosen pricing plan | As in chosen pricing plan |
-| Number of users | up to 20 recommended | As in chosen pricing plan | As in chosen pricing plan |
+| Simultaneous connections | up to 100 maximum  | As in chosen pricing plan | As in chosen pricing plan |
+| Number of users | up to 50 recommended | As in chosen pricing plan | As in chosen pricing plan |
 | License | GNU AGPL v.3 | Proprietary | Proprietary |
 | **Support** | **Community Edition** | **Integration Edition** | **Developer Edition** |
 | Documentation | [Help Center](https://helpcenter.onlyoffice.com/server/docker/opensource/index.aspx) | [Help Center](https://helpcenter.onlyoffice.com/server/integration-edition/index.aspx) | [Help Center](https://helpcenter.onlyoffice.com/server/integration-edition/index.aspx) |
@@ -60,7 +60,7 @@ The table below will help you to make the right choice.
 | Tabbed interface                       | + | + | + |
 | White Label                            | - | - | + |
 | Integrated test example (node.js)*     | - | + | + |
-| Mobile web editors                     | - | + | + |
+| Mobile web editors                     | + | + | + |
 | **Plugins & Macros** | **Community Edition** | **Integration Edition** | **Developer Edition** |
 | Plugins                           | + | + | + |
 | Macros                            | + | + | + |
